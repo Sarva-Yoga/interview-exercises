@@ -4,7 +4,7 @@ Thanks for interviewing with us @ SARVA Yoga, to better assess your skills and e
 
 Please follow the following instructions to complete your exercise.
 
-1. Create a new private repository (GitHub) for your exercise and add **namle117** as private collaborators.
+1. Create a new private repository (GitHub) for your exercise and add `namle117` as private collaborators.
 2. Complete as much of the exercise as you can in 4 hours or less. You can use any language, Flutter, Swift or Kotlin (purely because those are the languages we use)
 3. Be sure to include the following in your submission
 
@@ -23,17 +23,17 @@ Please follow the following instructions to complete your exercise.
 
 ---
 
-For your tech exercise, create a mobile app that allows a user to Register for an account.
+For your exercise, create a mobile app that allows a user to Register for an account with the following information:
 
 - Name
 - Email
 - Password
 
-on success, redirect the User to a page that displays the information the User provided in the registration form.
+On success, redirect the User to a page that displays the information the User provided in the registration form. Add a `logout` mechanism so the User can log out of the session.
 
-Then, create a login form to allow the User to login with the registered data.  Redirect the User to a page with their credentials on success.
+Then, create a form to allow the User to login with their email and password.  Redirect the User to a page with their Name and Email displayed on success.
 
-No backend is needed, but connecting to a service like **Google FireBase** for User management or something similar is a huge plus.
+No backend is needed, but connecting to a service like **Google FireBase** for User management or something similar is a HUGE plus.
 
 Do your best to make it look like the design below with good UI interaction and best practices.
 
