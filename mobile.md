@@ -42,4 +42,4 @@ Do your best to make it look like the design below with good UI interaction and 
 ## Extras:
 
 - Integrate with Google Firebase for User management
-- Integrate social media login for federated
+- Integrate social media login for federated identity management
