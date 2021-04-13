@@ -27,11 +27,11 @@ Please follow the following instructions to complete your exercise.
 
 1. UI: build a registration and login flow Android application
 
-![Frontend Web](https://github.com/Sarva-Yoga/interview-exercises/blob/main/frontend.md)
+[Frontend Web exercise](https://github.com/Sarva-Yoga/interview-exercises/blob/main/frontend.md)
 
 2. Backend: Once the User is logged in, allow them to query salary data from an API that will you build
 
-![Backend](https://github.com/Sarva-Yoga/interview-exercises/blob/main/backend.md)
+[Backend exercise](https://github.com/Sarva-Yoga/interview-exercises/blob/main/backend.md)
 
 Only logged in Users should be able to get access to this API page.
 
