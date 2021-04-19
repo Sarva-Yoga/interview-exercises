@@ -47,4 +47,4 @@ The example above (`/compensation_data...`) is not a contract. Feel free to desi
 
 ## Datasets
 
-[Compensation Salary Data Sets](./salary_datasets.cpgz)
+[Compensation Salary Data Sets](./salary_datasets/)
